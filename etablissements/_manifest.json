@@ -1607,5 +1607,12 @@
     "size_bytes": 125897,
     "status": "ok",
     "file": "le-crans.jpg"
+  },
+  "spa-hotel-nendaz-4-vallees": {
+    "nom": "SPA DES BISSES 4 VALLÉES",
+    "url_source": "https://www.bodypass.ch/wp-content/uploads/2026/05/Hotel-Nendaz-4-Vallees-B6.jpg",
+    "fetched_at": "2026-06-01T14:06:53+00:00",
+    "size_bytes": 221082,
+    "status": "ok"
   }
 }
